@@ -1,0 +1,159 @@
+/* xl */
+@media (max-width: 1400px) {
+    
+}
+@media (max-width: 1200px) {
+    
+}
+/* lg */
+@media (max-width: 992px) {
+    .carousel-caption {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 0%;
+        left: 0%;
+    }
+
+   .f-btn-icon-bg{
+       position: static;
+       margin-top: 10px;
+       text-align: center;
+       right: -36px;
+       padding: 15px 16px 16px 19px;
+       border-radius: 26px;
+   }
+   .copy-right{
+    margin-left: 0;
+}
+
+.w-s7-bottom {
+    display: block;
+    padding: 0px 0px;
+}
+.w-s7-bottom-text {
+    display: unset;
+    align-content: unset;
+}
+.w-s7-mbway {
+    padding-left: 0px;
+    padding: 10px;
+}
+}
+
+/* md */
+@media (max-width: 768px) {
+    .carousel-indicators.inv-s2-slider {
+        left: calc(50% + 6px);
+        transform: translateX(-50%);
+    }
+    .carousel-indicators.w-s4-slider{
+        left: calc(50% + 6px);
+        transform: translateX(-50%);  
+    }
+    .section-space{
+        padding: 70px 0;
+    }
+    .section-space-b{
+        padding-bottom: 70px;
+    }
+    .mission-space-t{
+        padding-top: 70px;
+    }
+    .mission-space-b{
+        padding-bottom: 70px;
+    }
+    
+    .minus-margin{
+        margin-top: -180px;
+    }
+    .feature-section-space{
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .carousel-caption {
+        text-align: center;
+        bottom: 40px;
+    }
+    .investing-space-b{
+        padding-bottom: 910px;
+        }
+    .carousel-indicators-b {
+        position: absolute;
+        right: 0;
+        bottom: -80px;
+        left: 0;
+        z-index: 2;
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        margin-right: 15%;
+        margin-bottom: 1rem;
+        margin-left: 15%;
+        list-style: none;
+    }
+    .carousel-caption {
+        text-align: center;
+        bottom: -160px;
+    }
+    .welcome-icon{
+        width: 100px;
+    }
+    .pathway-icon{
+        width: 190px;
+    }
+    .placing{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,calc(-50% - 20px));
+    }
+    .simulation-section {
+        margin-top:40px;
+    }
+    
+}
+/* sm */
+@media (max-width: 576px) {
+    
+    .font-size-sa{
+        font-size: 14px;
+    }
+    .padding-bottom-55{
+        padding-bottom: 45px;
+    }
+    .padding-top-55{
+        padding-top: 45px;
+    }
+    .nav-right-log{
+        width: 40px;
+    }
+    .logo{
+        max-width: 230px;
+        margin-left: -15px;
+    }
+    .profile-btn{
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    .font-size-32{
+        font-size: 28px;
+    }
+    .font-size-22{
+        font-size: 18px;
+    }
+    .font-size-25{
+        font-size: 20px;
+    }
+    .font-size-28{
+        font-size: 22px;
+    }
+    .font-size-18{
+        font-size: 16px;
+    }
+    .carousel-caption {
+        text-align: center;
+        bottom: -179px;
+    }
+}
+
